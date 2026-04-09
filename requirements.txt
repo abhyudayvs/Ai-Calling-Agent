@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+twilio
+websockets
+google-generativeai
+faster-whisper
+langchain
+langchain-google-genai
+pydub
+requests
+numpy

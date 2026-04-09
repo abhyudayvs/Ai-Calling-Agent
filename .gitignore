@@ -1,0 +1,14 @@
+
+.env
+
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+
+ffmpeg.exe
+ffprobe.exe
+*.log
+
+Thumbs.db
